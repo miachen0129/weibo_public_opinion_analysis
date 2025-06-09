@@ -3,8 +3,6 @@
 This repository contains the code and resources for a study on **public opinion dynamics and topic shifts** in social media during sudden events.  
 The case study focuses on the "**October 3 Thailand shooting**" and analyzes related Weibo posts collected within 24 hours before and after the event.
 
----
-
 ## Project Overview
 
 The project explores how social media users respond to sudden events by analyzing:
@@ -14,8 +12,6 @@ The project explores how social media users respond to sudden events by analyzin
 - **Topic transitions** during the incident
 
 Data was collected using Python web crawlers and processed using text mining techniques, sentiment analysis, and dimensionality reduction for visualization.
-
----
 
 ## Key Methods
 
