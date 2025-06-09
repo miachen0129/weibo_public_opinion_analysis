@@ -1,7 +1,6 @@
 # Weibo Public Opinion Analysis: Sudden Event Case Study
 
-This repository contains the code and resources for a study on **public opinion dynamics and topic shifts** in social media during sudden events.  
-The case study focuses on the "**October 3 Thailand shooting**" and analyzes related Weibo posts collected within 24 hours before and after the event.
+This repository contains the code and resources for a study on **public opinion dynamics and topic shifts** in social media during sudden events. The case study focuses on the "**October 3 Thailand shooting**" and analyzes related Weibo posts collected within 24 hours before and after the event.
 
 ## Project Overview
 
